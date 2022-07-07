@@ -106,13 +106,12 @@ routing URL that would be assigned to the page.  A section of the logic follows:
     }
 ```
 An example of the __menuitems__ table records:   
-[[/images/common pages/menuitems_workflow_records.png|menuitems workflow records]]
-
+![](../../../images/common pages/menuitems_workflow_records.png)    
 When a page exists, but has not been added to the navigation menu (no menuitems record exists) two elements of the Page
 Maintenance screen appear differently:
 * The 'Add to Menu' button is enabled allowiing the page to be added to the navigation menu
 * The 'Router Path' field appears and can be edited    
-[[/images/common pages/page maint when adding to menu.png|PageMaint screen when adding to menu]]    
+![](../../../images/common pages/page maint when adding to menu.png)    
 __*NOTE:*__ The reason that the 'Router Path' field only appears when adding an existing page to the navigation menu is
 due to the fact that it is a column in the __menuitems__ table and the record is created at this time.    
 __*TODO:*__ <span style="color: red;">make the menuitems record editable in the UI</span>
@@ -122,7 +121,7 @@ Records in the __routerpages__ table link router paths to __pages__ records in o
 the authController.authPage method.  
                                  
 The __routerpages__ table records:        
-[[/images/common pages/routerpages_records.png|routerpages records]]    
+![](../../../images/common pages/routerpages_records.png)    
 <span style="color: green;">Issue #29 Reuse of maintenance screens requires a routepages record to allow access to the page</span>    
 __*TODO:*__ <span style="color: red;">review alternative ways to retrieve page access information</span>    
 __*TODO:*__ <span style="color: red;">provide UI means for maintaining the routerpages table</span>
