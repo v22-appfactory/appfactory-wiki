@@ -1,6 +1,6 @@
 [Home](Home "Home")
 
-* [Administration Pages](Admin-Overview "Administration Overview")
+* [Administration Pages](pages/administration/Admin-Overview.md "Administration Overview")
 * [Application Pages](Application-Pages "Application Pages")
 * [Application Security](Application-Security "Application Security")
 * [Remote Query Requests](Remote-Query "Remote Query Requests")
