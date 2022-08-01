@@ -6,7 +6,7 @@ _TBD_
 
 Pages
 
-* [Form Builder](pages/administration/Form-Builder.md "Form Builder")
+* [Form Builder](Form-Builder.md "Form Builder")
 * Lookup Tables
 * Application Bunos
 * App Maintenance
