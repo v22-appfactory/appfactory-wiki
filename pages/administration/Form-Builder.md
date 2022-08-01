@@ -9,7 +9,7 @@ be updated with the data from the form.
 
 NOTE: Currently only one form can be added to a page.
 
-[[/images/appfactory/administration/form-builder.png|Form Builder Page]]
+[[../../images/appfactory/administration/form-builder.png|Form Builder Page]]
 
 ##### Fields
 ###### Applications [Required]
